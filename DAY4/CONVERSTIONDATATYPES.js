@@ -1,4 +1,4 @@
-let score = 1
+let score = 33
 
 console.log(typeof score);
 console.log(typeof (score));
@@ -12,7 +12,7 @@ console.log(valueInNumber);
 // manish => Nan  Not a Number
 // true => 1 ; false => 0
 
-let isLogedIn = ""
+let isLogedIn = 1
 let booleanisLogedIn = Boolean(isLogedIn)
 console.log(booleanisLogedIn);
 
@@ -23,3 +23,9 @@ console.log(booleanisLogedIn);
 let someNumber = 22
 let stringNumber = String(someNumber)
 console.log(stringNumber);
+
+// 22 => 22
+// "" => NOT SHOW
+// "MANISH" => MANISH
+// null => null
+// NOT ASSIGN => UNDEFINED
