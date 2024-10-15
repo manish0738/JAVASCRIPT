@@ -1,7 +1,11 @@
 # JAVASCRIPT
 JAVASCRIPT CODES, PROJECTS AND NOTES 
 
-                    #JAVASCRIPT VARIABLES#
+        WELCOME TO JAVASCRIPT JOURNEY
+        ALL DOCUMENTATION AND PROGRAM ARE AVAILABLE 
+
+        !DAY 2!
+                        #JAVASCRIPT VARIABLES#
 
             A variable is a container that stores a value. This is very similar to the container used to store rice, water and oats (Treats this as an analogy)
 
@@ -46,3 +50,57 @@ JAVASCRIPT CODES, PROJECTS AND NOTES
 
         @Type of comments :-
                 
+            (1). Single-line comments :-
+                It is represented by double forward slashes (//) It can be used before and after the statement.
+                // It is Single-line statement.
+
+            (2). Multi-line comments :-
+                It can be used to add single as well as multi line comments so it is more convenient.
+                /* your code here */
+
+
+        
+        !DAY 3!
+
+
+                        #JAVASCRIPT DATATYPES#
+
+                Javascript provides different datatype to hold different types of values.
+                There are two types of data types in javascript
+
+            (1). Primitive Datatypes :-
+                     Primitive datatypes are a set of basic datatypes in javascript.
+                     7 Primitive datatypes in javascript.
+
+                1. string:- Represents sequence of characters.
+                2. number:- Represents numeric values.
+                3. boolean:- Represents boolean value either true or false.
+                4. undefined:- Represents undefined value.
+                5. null:- Represents null value.
+                6. Bigint:- Represents big numeric value.
+
+            (2). Non-primitive Datatypes :-
+                1. object:-
+
+
+            @ Alert Method :-
+                Alerts instructs the browser to display a dialog with an optional message and wait until the user dismisses the dialog.
+
+                Under some conditions for example, when the user switch tabs the browser may not actually display a dialog or may not wait for the user to dismiss the dialog.
+
+                syntax :-    alert()
+                             alert(message)
+
+            
+
+        !DAY 4!
+
+                        #JAVASCRIPT TYPE SCRIPT#
+
+                In programming, type conversion is the process of converting data of one type to another. for example converting string data to number.
+
+                There two types of type conversion in javascript.
+
+            (1). Imlicit Conversion :-
+
+                    Automatic type conversion
